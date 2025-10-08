@@ -95,7 +95,7 @@ The Wheel est un jeu de Quiz Culture Générale incluant une spécificité inspi
   
   ❤️❤️❤️  | ❤️❤️🤍 | ❤️❤️❤️
 
-  *Mais si le joueur répond correctement à 0 questions sur les 3, il est malheureusement éliminé*
+  ***Mais si le joueur répond correctement à 0 questions sur les 3, il est malheureusement éliminé***
 
   Joueur 1 | Joueur 2 | Joueur 3
   
