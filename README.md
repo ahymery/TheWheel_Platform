@@ -73,8 +73,10 @@ The Wheel est un jeu de Quiz Culture Générale incluant une spécificité inspi
 
   *Explications*
 
-  **Le joueur 2 perd une vie et tourne la roue** 
-  Joueur 1 | Joueur 2 | Joueur 3 
+  **Le joueur 2 perd une vie et tourne la roue**
+  
+  Joueur 1 | Joueur 2 | Joueur 3
+  
   ❤️❤️❤️  | ❤️❤️🤍 | ❤️❤️❤️
 
   **Le joueur 2 qui a tourné la roue, est malheureusement tombé sur le malus "Coeur noir" et ses coeurs sont maintenant noir**
@@ -88,15 +90,16 @@ The Wheel est un jeu de Quiz Culture Générale incluant une spécificité inspi
   Au contraire s'il répond incorrectement à une question il perd sa vie sans aucune possibilité de la récupérer sur ce tour**
 
    ***Admettons que le joueur ait répondu correctement à 2 questions sur les 3, il possède donc 2 vies.***
-  Joueur 1 | Joueur 2 | Joueur 3 
+  
+  Joueur 1 | Joueur 2 | Joueur 3
+  
   ❤️❤️❤️  | ❤️❤️🤍 | ❤️❤️❤️
 
   *Mais si le joueur répond correctement à 0 questions sur les 3, il est malheureusement éliminé*
 
-  Joueur 1 | Joueur 2 | Joueur 3 
+  Joueur 1 | Joueur 2 | Joueur 3
+  
   ❤️❤️❤️  | 💀💀💀 | ❤️❤️❤️
 
   (Oui ce malus peut changer le cours de la partie en fonction du niveau du joueur)
-
-- ### 
 
